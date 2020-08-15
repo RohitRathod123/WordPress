@@ -17,7 +17,7 @@
  *
  * @since 2.9.0
  */
-function create_initial_post_types() {
+fun
 	register_post_type(
 		'post',
 		array(
